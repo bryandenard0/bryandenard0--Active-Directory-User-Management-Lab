@@ -93,7 +93,3 @@ setup for first‑time access.
 -   Automate user creation with PowerShell
 
 ------------------------------------------------------------------------
-
-## Author
-
-Home Lab Project -- Active Directory User Management
