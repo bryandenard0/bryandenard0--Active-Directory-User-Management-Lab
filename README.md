@@ -1,3 +1,5 @@
+Watch me build this lab here! https://www.loom.com/share/5c397443d8924c71aca5f1734461d808
+
 # Active Directory Home Lab: User Management
 
 ## Project Summary
